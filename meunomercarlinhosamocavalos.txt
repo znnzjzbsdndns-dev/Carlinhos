@@ -1,11 +1,3 @@
---[[
-     dex'y
-     made by yoolz
-
-ssp nao funcionaaaa
-]]--
-
-
 do local _g=(typeof(getgenv)=="function" and getgenv()) or _G
 _g.DexLookupRecon = function(scr)
 	if scr == nil then return nil end
